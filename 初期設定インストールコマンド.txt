@@ -1,0 +1,8 @@
+1. Reactプロジェクト作成
+npx create-react-app redux-shoppingcart-app
+
+2. Redux Toolkitをインストール
+npm install @reduxjs/toolkit
+
+3. react-reduxをインストール
+npm install react-redux
